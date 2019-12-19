@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/WithHades/WithHades.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](alipays://platformapi/startapp?appId=60000154&url=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D60000154%26url%3D%25%32%46%77%77%77%25%32%46%69%6E%64%65%78%25%32%46%64%65%74%61%69%6C%2E%68%74%6D%25%33%46%62%61%74%63%68%4E%6F%25%33%44%32%30%31%39%31%32%31%39%30%30%30%37%35%30%30%32%31%30%30%30%31%34%30%30%31%38%37%35%33%34%35%38%25%32%36%74%6F%6B%65%6E%25%33%44%76%6B%45%78%71%57%33%6A%25%32%36%73%6F%75%72%63%65%25%33%44%71%72%43%6F%64%65) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://github.com/WithHades/WithHades.github.io/edit/master/test.html) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
